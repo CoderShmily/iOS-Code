@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		F7B618561C34CE1A001CB993 /* iOS-Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "iOS-Code"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F7B618591C34CE1A001CB993 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F7B618591C34CE1A001CB993 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "iOS-Code/main.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +43,7 @@
 			children = (
 				F7B618581C34CE1A001CB993 /* iOS-Code */,
 				F7B618571C34CE1A001CB993 /* Products */,
+				F7B618591C34CE1A001CB993 /* main.m */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,7 +58,6 @@
 		F7B618581C34CE1A001CB993 /* iOS-Code */ = {
 			isa = PBXGroup;
 			children = (
-				F7B618591C34CE1A001CB993 /* main.m */,
 			);
 			path = "iOS-Code";
 			sourceTree = "<group>";
